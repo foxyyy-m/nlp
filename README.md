@@ -1,10 +1,10 @@
 The following libraries and APIs are used in some of the projects in this repository :
 
-- OpenAI API (https://openai.com/):
+- OpenAI API :
   - Distributed under the Apache 2.0 license.
-- gtts library (https://pypi.org/project/gTTS/):
+- gtts library :
   - Distributed under the MIT license.
-- playsound library (https://pypi.org/project/playsound/):
+- playsound library :
   - Distributed under the MIT license.
 
 
